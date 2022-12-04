@@ -1,0 +1,15 @@
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\bin\Debug\net6.0\Examples9.exe
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\bin\Debug\net6.0\Examples9.deps.json
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\bin\Debug\net6.0\Examples9.runtimeconfig.json
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\bin\Debug\net6.0\Examples9.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\bin\Debug\net6.0\Examples9.pdb
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\obj\Debug\net6.0\Examples9.csproj.AssemblyReference.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\obj\Debug\net6.0\Examples9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\obj\Debug\net6.0\Examples9.AssemblyInfoInputs.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\obj\Debug\net6.0\Examples9.AssemblyInfo.cs
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\obj\Debug\net6.0\Examples9.csproj.CoreCompileInputs.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\obj\Debug\net6.0\Examples9.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\obj\Debug\net6.0\refint\Examples9.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\obj\Debug\net6.0\Examples9.pdb
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\obj\Debug\net6.0\Examples9.genruntimeconfig.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 9. Рекурсия\Examples9\obj\Debug\net6.0\ref\Examples9.dll
